@@ -1,0 +1,11 @@
+.Ap {
+  text-align: center;
+  background-color: darkblue;
+  color: blanchedalmond;
+  margin-right: 10%;
+  margin-left: 30%;
+  height: 700px;
+  width: 700px;
+  border-radius: 30px;
+}
+
